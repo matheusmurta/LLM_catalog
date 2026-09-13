@@ -2,6 +2,8 @@
 
 Aplicação **Single Page (SPA)** que consome o JSON oficial de _pricing_ da [LiteLLM](https://github.com/BerriAI/litellm) e o exibe em uma tabela interativa, moderna e filtrável. Construída com **Vue 3 + Vite + Tailwind CSS**.
 
+[Site - Catálogo de Modelos LLM](https://llmcatalog.vercel.app/)
+
 ## ✨ Funcionalidades
 
 - **Busca por nome** do modelo (em tempo real).
